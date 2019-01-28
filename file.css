@@ -1,0 +1,31 @@
+
+      <!--    Applying designing and decoration properties    -->
+      
+      <style> 
+         .title
+		  { 
+          margin-bottom: 20px; 
+          text-align:center;
+		      background-color:rgb(122,69,197);;
+          width: 230px; 
+          color:black; 
+          border: solid black 2px; 
+       } 
+  
+         input[type="button"] 
+         { 
+          background-color:rgb(60,42,298); 
+          color: red; 
+          border: solid black 2px; 
+          width:100% 
+         } 
+  
+         input[type="text"] 
+         { 
+         background-color:white; 
+         border: solid black 2px; 
+         width:100% 
+         } 
+      </style> 
+   
+     
